@@ -1,0 +1,6 @@
+{
+    "require": {
+        "elasticsearch/elasticsearch": "^7.6",
+        "lincanbin/php-pdo-mysql-class": "^2.0"
+    }
+}
